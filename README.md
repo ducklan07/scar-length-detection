@@ -8,7 +8,6 @@ This project demonstrates image augmentation techniques using CLAHE (Contrast Li
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Example](#example)
 - [License](#license)
 
 ## Introduction
